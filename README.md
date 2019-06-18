@@ -2,6 +2,8 @@
 ICC Cricket World Cup 2019 is going on now a days this program uses a machine learning algorithm called logistic regression to predict the winning team of the world cup. The program is written in python and a jupyter notebook file.
 
 The libraries used in this project are 
-* _Pandas_
-*_Numpy_
-*_Scikit-Learn_
+
+* Pandas
+* Numpy
+* Scikit-Learn
+* Seaborn
