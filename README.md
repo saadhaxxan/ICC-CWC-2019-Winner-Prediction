@@ -7,3 +7,5 @@ The libraries used in this project are
 * Numpy
 * Scikit-Learn
 * Seaborn
+
+To run this first install python and then install the above libraries by typing pip install library name in command line.
